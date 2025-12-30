@@ -1,0 +1,2 @@
+Hello this is a sample file for the practice program of java,
+For File Handling Program
